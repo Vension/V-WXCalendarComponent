@@ -29,5 +29,5 @@ select: function (e) {
 | next-month="{{nextMonth}}" | 按钮，下个月 |string|"▶"|
 
 ## 3.界面
-![UI](https://raw.githubusercontent.com/749264345/miniapp-component-calendar/master/ui.png)
+![效果](https://github.com/Vension/V-WXCalendarComponent/blob/master/images/1550471685.jpg)
 
